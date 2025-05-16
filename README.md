@@ -11,7 +11,7 @@ Tampermonkey 用户脚本，用于在 [学在浙大](https://courses.zju.edu.cn)
 1. 安装 [Tampermonkey 浏览器扩展](https://www.tampermonkey.net/)
 
 2. 点击下方链接安装脚本：  
-    https://github.com/eWloYW8/ZJU-course-material-download/raw/refs/heads/master/zju-course-material-download.js
+    https://github.com/eWloYW8/ZJU-course-material-download/raw/refs/heads/master/zju-course-material-download.user.js
 
 3. 打开课程页面中的学习活动
 
