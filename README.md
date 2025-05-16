@@ -8,7 +8,7 @@ Tampermonkey 用户脚本，用于在 [学在浙大](https://courses.zju.edu.cn)
 
 ## 使用方法
 
-1. 安装 [Tampermonkey 浏览器扩展](https://www.tampermonkey.net/)
+1. 安装 [Tampermonkey 浏览器扩展](https://www.tampermonkey.net/)（iOS端可以使用 Userscript）
 
 2. 点击下方链接安装脚本：  
     https://github.com/eWloYW8/ZJU-course-material-download/raw/refs/heads/master/zju-course-material-download.user.js
