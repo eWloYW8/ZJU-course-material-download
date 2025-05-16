@@ -17,6 +17,9 @@ Tampermonkey 用户脚本，用于在 [学在浙大](https://courses.zju.edu.cn)
 
 4. 等待课件加载，脚本将自动添加“下载”按钮
 
+## 效果截图
+
+![](snapshot/snapshot1.png)
 
 ## 注意事项
 
