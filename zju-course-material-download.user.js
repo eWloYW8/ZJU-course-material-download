@@ -5,7 +5,7 @@
 // @description  获取学在浙大中无下载权限的课件内容
 // @author       eWloYW8
 // @match        https://courses.zju.edu.cn/course/*/learning-activity/full-screen*
-// @run-at document-idle
+// @run-at       document-idle
 // @license      MIT
 // @grant        none
 // ==/UserScript==
