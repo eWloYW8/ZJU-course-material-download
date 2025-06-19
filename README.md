@@ -19,7 +19,7 @@ Tampermonkey 用户脚本，用于在 [学在浙大](https://courses.zju.edu.cn)
 
 ## 效果截图
 
-![](snapshot/snapshot1.png)
+![](screenshot/screenshot1.png)
 
 ## 注意事项
 
